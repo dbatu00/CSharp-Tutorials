@@ -1,0 +1,5 @@
+C:\Users\batude\source\repos\Experiments\Experiments\obj\Debug\net5.0\Tutorials.csproj.AssemblyReference.cache
+C:\Users\batude\source\repos\Experiments\Experiments\obj\Debug\net5.0\Tutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batude\source\repos\Experiments\Experiments\obj\Debug\net5.0\Tutorials.AssemblyInfoInputs.cache
+C:\Users\batude\source\repos\Experiments\Experiments\obj\Debug\net5.0\Tutorials.AssemblyInfo.cs
+C:\Users\batude\source\repos\Experiments\Experiments\obj\Debug\net5.0\Tutorials.csproj.CoreCompileInputs.cache

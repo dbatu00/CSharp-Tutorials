@@ -1,0 +1,16 @@
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\bin\Debug\net5.0\ProgramBuildingBlocks.exe
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\bin\Debug\net5.0\ProgramBuildingBlocks.deps.json
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\bin\Debug\net5.0\ProgramBuildingBlocks.runtimeconfig.json
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\bin\Debug\net5.0\ProgramBuildingBlocks.runtimeconfig.dev.json
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\bin\Debug\net5.0\ProgramBuildingBlocks.dll
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\bin\Debug\net5.0\ref\ProgramBuildingBlocks.dll
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\bin\Debug\net5.0\ProgramBuildingBlocks.pdb
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ProgramBuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ProgramBuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ProgramBuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ProgramBuildingBlocks.AssemblyInfo.cs
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ProgramBuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ProgramBuildingBlocks.dll
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ref\ProgramBuildingBlocks.dll
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ProgramBuildingBlocks.pdb
+C:\Users\batude\source\repos\Tutorials\Program Building Blocks\obj\Debug\net5.0\ProgramBuildingBlocks.genruntimeconfig.cache

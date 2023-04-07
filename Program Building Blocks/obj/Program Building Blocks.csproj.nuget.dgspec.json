@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\batude\\source\\repos\\Experiments\\Program Building Blocks\\Program Building Blocks.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\batude\\source\\repos\\Experiments\\Program Building Blocks\\Program Building Blocks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\batude\\source\\repos\\Experiments\\Program Building Blocks\\Program Building Blocks.csproj",
+        "projectName": "Program Building Blocks",
+        "projectPath": "C:\\Users\\batude\\source\\repos\\Experiments\\Program Building Blocks\\Program Building Blocks.csproj",
+        "packagesPath": "C:\\Users\\batude\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\batude\\source\\repos\\Experiments\\Program Building Blocks\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\batude\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.dormakaba.net/artifactory/api/nuget/pd-emea-tvv-automatix-main-nuget-local": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
