@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramBuildingBlocks", "Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Experimental", "Experimental\Experimental.csproj", "{B223C887-3E58-4365-B29D-E330FB493CD7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0764D740-8EEB-4BEA-B024-03AC05F6174A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{F209639B-59F2-4D89-85D1-25E3B7C7C021}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Typecasting", "Typecasting\Typecasting.csproj", "{2E31F3A5-5AF6-462F-8581-3C0922C6990D}"
@@ -38,10 +36,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{F209639B-59F2-4D89-85D1-25E3B7C7C021} = {0764D740-8EEB-4BEA-B024-03AC05F6174A}
-		{2E31F3A5-5AF6-462F-8581-3C0922C6990D} = {0764D740-8EEB-4BEA-B024-03AC05F6174A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31F1883C-DAF2-48D3-B79D-FB842766CBF1}

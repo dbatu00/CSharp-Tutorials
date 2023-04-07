@@ -29,6 +29,10 @@ namespace ProgramBuildingBlocks
             B = b;
         }
 
+        public override string ToString() => "This is a color";
+        Program program = new Program();
+        
+
 
         //A method is a member that implements a computation or action that can be performed by an
         //object or class. Static methods are accessed through the class. Instance methods are
@@ -36,14 +40,27 @@ namespace ProgramBuildingBlocks
 
     }
 
+
     class Program
     {
+        public static void PrintName(string firstName, string lastName = "Doe") 
+                          => Console.WriteLine($"Name: {firstName} {lastName}");
+                          //lastName is a default value parameter
+
+        static void Swap(ref int x, ref int y)
+        {
+            int temp = x;
+            x = y;
+            y = temp;
+        }
         static void Main(string[] args)
         {
             Color color = new(5, 5, 5);
             color = Color.Black;
 
-            Console.WriteLine("Hello World!");
+            int i = 1, j = 2;
+            Swap(ref i, ref j);
+            Console.WriteLine($"{i} {j}");    // "2 1"
         }
     }
 }
